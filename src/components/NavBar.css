@@ -1,38 +1,52 @@
 .Sewa {
-	width: 568px;
-	height: 108px;
-	left: 136px;
-	top: 177px;
-
+	margin-left: 100px;
+	margin-top: 140px;
+  
 	font-family: "Arial";
 	font-style: normal;
 	font-weight: 700;
 	font-size: 36px;
 	line-height: 150%;
-}
-
-.Selamat {
-	width: 468px;
+  }
+  
+  .Selamat {
+	width: 50%;
 	height: 60px;
-	left: 136px;
-	top: 301px;
-
+	margin-left: 100px;
+	margin-top: 30px;
+  
 	font-family: "Arial";
 	font-style: normal;
 	font-weight: 700;
 	font-size: 14px;
 	line-height: 20px;
-}
-
-.Mercy {
-	width: 704px;
+  }
+  
+  .Tombol {
+	margin-left: 100px;
+	margin-top: 70px;
+  }
+  .Mercy {
+	width: 50%;
 	height: 407px;
 	margin-left: 1440px;
 	margin-top: 97px;
-}
-
-.gambar {
-	width: 800px;
-	border-color: blue;
-	border: 1px, solid, blue;
-}
+  }
+  
+  .kiri {
+	width: 50%;
+  }
+  
+  .Hero {
+	background: #f1f3ff;
+	width: 1440px;
+  }
+  
+  .Kanan img {
+	margin-top: 200px;
+	width: 600px;
+  }
+  
+  .NavBar {
+  }
+  
