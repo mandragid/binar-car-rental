@@ -1,13 +1,8 @@
-.NavBar {
-	background: #f1f3ff;
-}
-
 .Sewa {
-	position: absolute;
 	width: 568px;
 	height: 108px;
-	margin-left: 136px;
-	margin-top: 177px;
+	left: 136px;
+	top: 177px;
 
 	font-family: "Arial";
 	font-style: normal;
@@ -19,34 +14,25 @@
 .Selamat {
 	width: 468px;
 	height: 60px;
-	margin-left: 136px;
-	margin-top: 301px;
+	left: 136px;
+	top: 301px;
+
+	font-family: "Arial";
+	font-style: normal;
 	font-weight: 700;
 	font-size: 14px;
 	line-height: 20px;
 }
 
-.TombolSewa {
-	box-sizing: border-box;
-	display: flex;
-	flex-direction: row;
-	justify-content: center;
-	align-items: center;
-	padding: 8px 12px;
-	gap: 10px;
-	position: absolute;
-	width: 140px;
-	height: 36px;
-	margin-left: 136px;
-	margin-top: 377px;
-	background-color: #5cb85f;
-	border-radius: 2px;
-}
-
-.GambarMobil {
-	position: absolute;
+.Mercy {
 	width: 704px;
 	height: 407px;
-	margin-left: 800px;
+	margin-left: 1440px;
 	margin-top: 97px;
+}
+
+.gambar {
+	width: 800px;
+	border-color: blue;
+	border: 1px, solid, blue;
 }

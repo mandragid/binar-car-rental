@@ -3,15 +3,17 @@ import React from "react";
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
+import Row from "react-bootstrap/Row";
+import Col from "react-bootstrap/Col";
 import Button from "react-bootstrap/Button";
 import GambarMobil from "../img/mercy.png";
 
 function NavBar() {
 	return (
-		<div>
+		<div class="container">
 			<div className="NavBar">
 				<Navbar expand="lg d-flex">
-					<Container className="d-flex justify-content-end float-end">
+					<Container className="container d-flex justify-content-end float-end">
 						<Navbar.Brand href="#home">BCR</Navbar.Brand>
 						<Navbar.Toggle aria-controls="basic-navbar-nav" />
 						<Navbar.Collapse id="justify-content-end float-end">
@@ -24,16 +26,16 @@ function NavBar() {
 						</Navbar.Collapse>
 					</Container>
 				</Navbar>
-				<div className="GambarMobil">
-					{" "}
-					<img className="float-right" alt="Mercy" src={GambarMobil} />
+
+				<div class="row">
+					<div class="col">column</div>
+					<div class="col gambar">gambar</div>
 				</div>
-				<div className="Sewa">Sewa &amp; Rental Mobil Terbaik di kawasan (Lokasimu)</div>
-				<div className="Selamat">
-					Selamat datang di Binar Car Rental. Kami menyediakan mobil kualitas terbaik dengan harga terjangkau. Selalu siap melayani kebutuhanmu untuk sewa mobil selama 24 jam.
+				<div class="row">
+					<div class="col">column</div>
 				</div>
-				<div className="TombolSewa">
-					<Button>Mulai Sewa Mobil</Button>{" "}
+				<div class="row">
+					<div class="col">column</div>
 				</div>
 			</div>
 		</div>
