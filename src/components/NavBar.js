@@ -26,7 +26,7 @@ function NavBar() {
 						</Navbar.Collapse>
 					</Container>
 				</Navbar>
-				<div className="container SectionSatu  d-md-flex">
+				<div className="container d-md-flex">
 					<div className="kiri">
 						<div className="Sewa d-flex ms-5">Sewa dan Rental Mobil Terbaik di kawasan (Lokasimu)</div>
 						<div className="Selamat ms-5 mt-3 text-wrap">Selamat datang di Binar Car Rental. Kami menyediakan mobil kualitas terbaik dengan harga terjangkau.</div>

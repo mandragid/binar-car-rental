@@ -1,0 +1,32 @@
+.Best {
+	width: 468px;
+	height: 72px;
+
+	font-family: "Arial";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 36px;
+}
+
+.Semo {
+	width: 468px;
+	height: 80px;
+
+	font-family: "Arial";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 20px;
+}
+
+.List {
+	width: 269px;
+	height: 20px;
+
+	font-family: "Arial";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 20px;
+}
