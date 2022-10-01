@@ -1,0 +1,45 @@
+.WhyUs {
+	font-family: "Arial";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+}
+
+.Mengapa {
+	width: 468px;
+	height: 20px;
+	left: 136px;
+	top: 1184px;
+
+	font-family: "Arial";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 20px;
+}
+
+.CaptionCard {
+	width: 220px;
+	height: 60px;
+
+	font-family: "Arial";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 20px;
+}
+
+.JudulCard {
+	font-family: "Arial";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 24px;
+}
+
+.Card {
+	width: 250px;
+	margin: 15px;
+	height: auto;
+	margin-top: 50px;
+}
