@@ -33,4 +33,15 @@ h3 {
 
 .UserLogo {
 	width: 80px;
+	height: 80px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	all: unset;
 }

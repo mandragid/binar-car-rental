@@ -8,6 +8,7 @@ import WhyUs from "./components/WhyUs";
 import Testimonial from "./components/Testimonial";
 import SewaSekarang from "./components/SewaSekarang";
 import Faq from "./components/Faq";
+import Footer from "./components/Footer";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
 	<React.StrictMode>
@@ -17,5 +18,6 @@ root.render(
 		<Testimonial />
 		<SewaSekarang />
 		<Faq />
+		<Footer />
 	</React.StrictMode>
 );
