@@ -14,7 +14,7 @@ function WhyUs() {
 				<div className="row WhyUs text-start">Why Us?</div>
 				<div className="row Mengapa">Mengapa harus pilih Binar Car Rental?</div>
 			</div>
-			<div className="CardGroup d-flex">
+			<div className="CardGroup d-flex m-auto justify-content-center">
 				<CardGroup className="CardGroup d-flex">
 					<div className="Card">
 						<Card>
