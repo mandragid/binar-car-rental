@@ -9,13 +9,13 @@ import Twitch from "../img/twitch.png";
 function Footer() {
 	return (
 		<div class="container-fluid footer">
-			<div className="container">
+			<div className="container m-auto">
 				<div className="row">
 					<div className="col-3">
 						<ul>
 							<li>
 								{" "}
-								<a href="">Jalan Suroyo No. 161 Mayangan Kota Probolonggo 672000</a>
+								<a href="#">Jalan Suroyo No. 161 Mayangan Kota Probolonggo 672000</a>
 							</li>
 						</ul>
 					</div>
@@ -46,11 +46,11 @@ function Footer() {
 						</ul>
 					</div>
 					<div className="col-1 d-flex">
-						<img src={Facebook}></img>
-						<img src={Instagram}></img>
-						<img src={Twitter}></img>
-						<img src={Email}></img>
-						<img src={Twitch}></img>
+						<img src={Facebook} alt="FacebookLogo"></img>
+						<img src={Instagram} alt="InstagramLogo"></img>
+						<img src={Twitter} alt="TwitterLogo"></img>
+						<img src={Email} alt="EmailLogo"></img>
+						<img src={Twitch} alt="TwitchLogo"></img>
 					</div>
 
 					<div className="col biru"></div>
@@ -60,7 +60,7 @@ function Footer() {
 					<div className="col">
 						<ul>
 							<li>
-								<a href="">FAQ</a>
+								<a href="#">FAQ</a>
 							</li>
 						</ul>
 					</div>

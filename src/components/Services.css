@@ -30,3 +30,9 @@
 	font-size: 14px;
 	line-height: 20px;
 }
+
+.CheckIcon {
+	padding: 0;
+	margin-top: -20px;
+	width: 20px;
+}

@@ -10,7 +10,7 @@ function Services() {
 				<div className="container">
 					<div className="row">
 						<div className="col-4 offset-1 mt-3">
-							<img className="img-fluid" src={Cewek} />
+							<img className="img-fluid" src={Cewek} alt="Cewek" />
 						</div>
 						<div className="Best offset-1 col-5 mt-5">
 							Best Car Rental for any kind of trip in (Lokasimu)!
@@ -22,31 +22,31 @@ function Services() {
 							</div>
 							<div className="row mt-4">
 								<div className="col-1">
-									<img className="img-fluid" src={Check} />
+									<img className="CheckIcon" src={Check} alt="CheckIcon" />
 								</div>
 								<div className="col List">Sewa Mobil Dengan Supir di Bali 12 Jam</div>
 							</div>
 							<div className="row">
 								<div className="col-1">
-									<img className="img-fluid" src={Check} />
+									<img className="CheckIcon" src={Check} alt="CheckIcon" />
 								</div>
 								<div className="col List">Sewa Mobil Lepas Kunci di Bali 24 Jam</div>
 							</div>
 							<div className="row">
 								<div className="col-1">
-									<img className="img-fluid" src={Check} />
+									<img className="CheckIcon" src={Check} alt="CheckIcon" />
 								</div>
 								<div className="col List">Sewa Mobil Jangka Panjang Bulanan</div>
 							</div>
 							<div className="row">
 								<div className="col-1">
-									<img className="img-fluid" src={Check} />
+									<img className="CheckIcon" src={Check} alt="CheckIcon" />
 								</div>
 								<div className="col List">Gratis Antar - Jemput Mobil di Bandara</div>
 							</div>
 							<div className="row">
 								<div className="col-1">
-									<img className="img-fluid" src={Check} />
+									<img className="CheckIcon" src={Check} alt="CheckIcon" />
 								</div>
 								<div className="col List">Layanan Airport Transfer / Drop In Out</div>
 							</div>

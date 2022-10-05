@@ -3,12 +3,13 @@
 	font-style: normal;
 	font-weight: 700;
 	font-size: 24px;
+	margin-left: 50px;
 }
 
 .Mengapa {
 	width: 468px;
 	height: 20px;
-	left: 136px;
+	margin-left: 50px;
 	top: 1184px;
 
 	font-family: "Arial";
